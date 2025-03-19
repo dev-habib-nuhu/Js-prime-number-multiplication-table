@@ -1,1 +1,1 @@
--To run application, simply open index.html
+-To run application, simply open index.html and the page should load with a browser
